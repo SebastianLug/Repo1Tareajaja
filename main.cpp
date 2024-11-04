@@ -8,5 +8,9 @@ int main()
     cout << "* Papus :v *" << endl;
     cout << "************" << endl;
 
+
+    cout << "*Lol*" << endl;
+
+
     return 0;
 }
